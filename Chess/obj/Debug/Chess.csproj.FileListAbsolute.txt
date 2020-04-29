@@ -1,0 +1,11 @@
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\bin\Debug\Chess.exe.config
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\bin\Debug\Chess.exe
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\bin\Debug\Chess.pdb
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\obj\Debug\Chess.TBoard.resources
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\obj\Debug\Chess.exe
+C:\Users\marce\Desktop\ChessGraphicAndAnimation\Chess\obj\Debug\Chess.pdb
